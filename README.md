@@ -6,7 +6,7 @@ This package detects code duplication in Laravel projects and provides warnings 
 
 1. Require the package via Composer:
     ```bash
-    composer require yourname/laravel-duplication-checker
+    composer require jeelsureja/laravel-duplication-checker
     ```
 
 2. Publish the configuration file:
