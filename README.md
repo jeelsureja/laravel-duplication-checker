@@ -11,7 +11,7 @@ This package detects code duplication in Laravel projects and provides warnings 
 
 2. Publish the configuration file:
     ```bash
-    php artisan vendor:publish --tag=config --provider="YourNamespace\DuplicationChecker\Providers\DuplicationServiceProvider"
+    php artisan vendor:publish --tag=config --provider="Jeelsureja\LaravelDuplicationChecker\Providers\DuplicationServiceProvider"
     ```
 
 3. Run the duplication check command:
